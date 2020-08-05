@@ -6,7 +6,7 @@
 There are some situations in which a man could go into the critical condition without the blood, however there are too many people in the world who wish to donate blood but 
 don't get the proper news about the places at which blood camp is held or places where blood is needed.  
 
-Therefore here we are trying to bring hospitals, people who like to donate blood, and people who need blood.
+Therefore here we are trying to bring all (hospitals, people who like to donate blood, and people who need blood) on the common platform.
 
 ## Tools/Technology used:
 * Android Studio
